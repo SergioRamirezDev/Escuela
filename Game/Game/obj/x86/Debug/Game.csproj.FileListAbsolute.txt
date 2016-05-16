@@ -1,0 +1,8 @@
+c:\users\paul\documents\visual studio 2010\Projects\Game\Game\bin\Debug\Game.exe
+c:\users\paul\documents\visual studio 2010\Projects\Game\Game\bin\Debug\Game.pdb
+c:\users\paul\documents\visual studio 2010\Projects\Game\Game\obj\x86\Debug\Game.Form1.resources
+c:\users\paul\documents\visual studio 2010\Projects\Game\Game\obj\x86\Debug\Game.Properties.Resources.resources
+c:\users\paul\documents\visual studio 2010\Projects\Game\Game\obj\x86\Debug\Game.csproj.GenerateResource.Cache
+c:\users\paul\documents\visual studio 2010\Projects\Game\Game\obj\x86\Debug\Game.exe
+c:\users\paul\documents\visual studio 2010\Projects\Game\Game\obj\x86\Debug\Game.pdb
+C:\Users\Paul\documents\visual studio 2010\Projects\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache

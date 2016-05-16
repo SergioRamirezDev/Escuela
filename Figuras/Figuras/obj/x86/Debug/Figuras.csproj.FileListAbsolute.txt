@@ -1,0 +1,7 @@
+c:\users\paul\documents\visual studio 2010\Projects\Figuras\Figuras\bin\Debug\Figuras.exe
+c:\users\paul\documents\visual studio 2010\Projects\Figuras\Figuras\bin\Debug\Figuras.pdb
+c:\users\paul\documents\visual studio 2010\Projects\Figuras\Figuras\obj\x86\Debug\Figuras.Properties.Resources.resources
+c:\users\paul\documents\visual studio 2010\Projects\Figuras\Figuras\obj\x86\Debug\Figuras.csproj.GenerateResource.Cache
+c:\users\paul\documents\visual studio 2010\Projects\Figuras\Figuras\obj\x86\Debug\Figuras.exe
+c:\users\paul\documents\visual studio 2010\Projects\Figuras\Figuras\obj\x86\Debug\Figuras.pdb
+c:\users\paul\documents\visual studio 2010\Projects\Figuras\Figuras\obj\x86\Debug\Figuras.Form1.resources
