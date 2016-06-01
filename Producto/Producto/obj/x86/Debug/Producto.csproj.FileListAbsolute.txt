@@ -1,0 +1,4 @@
+c:\users\paul\documents\visual studio 2010\Projects\Producto\Producto\bin\Debug\Producto.exe
+c:\users\paul\documents\visual studio 2010\Projects\Producto\Producto\bin\Debug\Producto.pdb
+c:\users\paul\documents\visual studio 2010\Projects\Producto\Producto\obj\x86\Debug\Producto.exe
+c:\users\paul\documents\visual studio 2010\Projects\Producto\Producto\obj\x86\Debug\Producto.pdb
